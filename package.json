@@ -16,3 +16,7 @@
     "method-override": "^3.0.0"
   }
 }
+
+"scripts": {
+  "start": "node app.js"
+}
